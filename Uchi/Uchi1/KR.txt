@@ -1,5 +1,7 @@
 ------------------INDICADORES-----------
 #simplicidade#
+#sentido#
+#diferença#
 #quais problemas resolve ?#
 #qual o nível de customização ?#
 ------------------SPRINTS--------------
