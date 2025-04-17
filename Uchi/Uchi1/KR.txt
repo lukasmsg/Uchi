@@ -1,4 +1,6 @@
+------------------INDICADORES-----------
 #simplicidade#
 #quais problemas resolve ?#
 #qual o nível de customização ?#
-
+------------------SPRINTS--------------
+# leitura de um elemento químico de um pdf e classificação quantitativa#
